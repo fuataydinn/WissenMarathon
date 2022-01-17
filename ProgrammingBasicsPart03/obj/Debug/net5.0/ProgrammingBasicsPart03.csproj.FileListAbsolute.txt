@@ -1,0 +1,16 @@
+C:\Users\faydn\source\repos\WissenMarathon\ProgrammingBasicsPart03\bin\Debug\net5.0\ProgrammingBasicsPart03.exe
+C:\Users\faydn\source\repos\WissenMarathon\ProgrammingBasicsPart03\bin\Debug\net5.0\ProgrammingBasicsPart03.deps.json
+C:\Users\faydn\source\repos\WissenMarathon\ProgrammingBasicsPart03\bin\Debug\net5.0\ProgrammingBasicsPart03.runtimeconfig.json
+C:\Users\faydn\source\repos\WissenMarathon\ProgrammingBasicsPart03\bin\Debug\net5.0\ProgrammingBasicsPart03.runtimeconfig.dev.json
+C:\Users\faydn\source\repos\WissenMarathon\ProgrammingBasicsPart03\bin\Debug\net5.0\ProgrammingBasicsPart03.dll
+C:\Users\faydn\source\repos\WissenMarathon\ProgrammingBasicsPart03\bin\Debug\net5.0\ref\ProgrammingBasicsPart03.dll
+C:\Users\faydn\source\repos\WissenMarathon\ProgrammingBasicsPart03\bin\Debug\net5.0\ProgrammingBasicsPart03.pdb
+C:\Users\faydn\source\repos\WissenMarathon\ProgrammingBasicsPart03\obj\Debug\net5.0\ProgrammingBasicsPart03.csproj.AssemblyReference.cache
+C:\Users\faydn\source\repos\WissenMarathon\ProgrammingBasicsPart03\obj\Debug\net5.0\ProgrammingBasicsPart03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\source\repos\WissenMarathon\ProgrammingBasicsPart03\obj\Debug\net5.0\ProgrammingBasicsPart03.AssemblyInfoInputs.cache
+C:\Users\faydn\source\repos\WissenMarathon\ProgrammingBasicsPart03\obj\Debug\net5.0\ProgrammingBasicsPart03.AssemblyInfo.cs
+C:\Users\faydn\source\repos\WissenMarathon\ProgrammingBasicsPart03\obj\Debug\net5.0\ProgrammingBasicsPart03.csproj.CoreCompileInputs.cache
+C:\Users\faydn\source\repos\WissenMarathon\ProgrammingBasicsPart03\obj\Debug\net5.0\ProgrammingBasicsPart03.dll
+C:\Users\faydn\source\repos\WissenMarathon\ProgrammingBasicsPart03\obj\Debug\net5.0\ref\ProgrammingBasicsPart03.dll
+C:\Users\faydn\source\repos\WissenMarathon\ProgrammingBasicsPart03\obj\Debug\net5.0\ProgrammingBasicsPart03.pdb
+C:\Users\faydn\source\repos\WissenMarathon\ProgrammingBasicsPart03\obj\Debug\net5.0\ProgrammingBasicsPart03.genruntimeconfig.cache
