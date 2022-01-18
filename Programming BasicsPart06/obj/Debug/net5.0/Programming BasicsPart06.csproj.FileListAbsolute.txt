@@ -13,3 +13,4 @@ C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart06\obj\Debug\ne
 C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart06\obj\Debug\net5.0\ref\Programming BasicsPart06.dll
 C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart06\obj\Debug\net5.0\Programming BasicsPart06.pdb
 C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart06\obj\Debug\net5.0\Programming BasicsPart06.genruntimeconfig.cache
+C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart06\obj\Debug\net5.0\Programming BasicsPart06.csproj.AssemblyReference.cache

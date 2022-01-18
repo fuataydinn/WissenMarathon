@@ -10,31 +10,36 @@ namespace Programming_BasicsPart06
             //    Kullanıcının yazdığı değerlerin sayı olup olmadığının kontrolü yapılmalıdır. 
             //    Kullanıcı uygun formatta sayı yazmazsa(“Yirmibeş”, “üç”, “Muhittin”) uyarı döndürülecek ve girilen değer geçersiz sayılacaktır.
 
-            int enKucuk = 0;
-            int enBuyuk = 0;
 
-            for (int i = 1; i <= 3; i++)
+            const int loopLimit = 9;  // değişkenleri her zaman döngünün dışında tanımla
+            int inputNumber;          // sayı'dan başka bişi giremesin diye TryParse kullan ! -- boolean sonuc dondurur ve çift parametre ile calisir.
+            int maxNumber = int.MinValue; // max sayıya verilecek min değer
+            int minNumber = int.MaxValue;
+            int counter = 0;
+            string input;
+
+            while (counter < loopLimit)
             {
-                Console.WriteLine($"{i}. Sayıyı giriniz:");
-                int sayi = int.Parse(Console.ReadLine());
-                if (sayi > enBuyuk)
+                Console.WriteLine("Lütfen {0}. sayı giriniz:", counter + 1);
+                input = Console.ReadLine();
+                if (!int.TryParse(input, out inputNumber))
                 {
-                    enBuyuk = sayi;
+                    Console.WriteLine("Yanlış formatta bir sayı giriniz");
+                    continue; // continue dan sonraki şartlara bakılmaz direk while döner. Döngüde kullanılıyor bu sadece.
                 }
-                if (sayi < enKucuk)
+                if (inputNumber > maxNumber)
                 {
-                    enKucuk = sayi;
+                    maxNumber = inputNumber;
                 }
-                if (i == 1)
+                if (inputNumber < minNumber)
                 {
-                    enKucuk = sayi;
-                    enBuyuk = sayi;
+                    minNumber = inputNumber;
                 }
+                counter++;
+
             }
-            Console.WriteLine($"en küçük sayı : {enKucuk}");
-            Console.WriteLine($"en büyük sayı : {enBuyuk}");
-
-
+            Console.WriteLine($"Giriş yapılan sayılardan en küçüğü {minNumber}");
+            Console.WriteLine($"Giriş yapılan sayılardan en büyüğü {maxNumber}");
         }
     }
 }
