@@ -45,15 +45,15 @@ namespace Array1
             //Elemanlar arasında mutlaka bir ayraç karakter olmalıdır.İlk elemandan önce veya son elemandan sonra ekranda – (veya diğer bir ayraç) karakteri olmamalıdır.
 
 
-            //int[] numbers = new int[] { 1, 2, 3 };
-            //for (int i = numbers.Length - 1; i >= 0; i--)
-            //{
-            //    Console.Write($"{numbers[i]}");
-            //    if (i!=0)
-            //    {
-            //        Console.Write("-");
-            //    }
-            //}
+            int[] numbers = new int[] { 1, 2, 3 };
+            for (int i = numbers.Length - 1; i >= 0; i--)
+            {
+                Console.Write($"{numbers[i]}");
+                if (i != 0)
+                {
+                    Console.Write("-");
+                }
+            }
 
         }
     }

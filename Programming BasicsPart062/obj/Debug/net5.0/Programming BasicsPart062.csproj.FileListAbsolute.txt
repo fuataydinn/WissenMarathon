@@ -1,0 +1,16 @@
+C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart062\bin\Debug\net5.0\Programming BasicsPart062.exe
+C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart062\bin\Debug\net5.0\Programming BasicsPart062.deps.json
+C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart062\bin\Debug\net5.0\Programming BasicsPart062.runtimeconfig.json
+C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart062\bin\Debug\net5.0\Programming BasicsPart062.runtimeconfig.dev.json
+C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart062\bin\Debug\net5.0\Programming BasicsPart062.dll
+C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart062\bin\Debug\net5.0\ref\Programming BasicsPart062.dll
+C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart062\bin\Debug\net5.0\Programming BasicsPart062.pdb
+C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart062\obj\Debug\net5.0\Programming BasicsPart062.csproj.AssemblyReference.cache
+C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart062\obj\Debug\net5.0\Programming BasicsPart062.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart062\obj\Debug\net5.0\Programming BasicsPart062.AssemblyInfoInputs.cache
+C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart062\obj\Debug\net5.0\Programming BasicsPart062.AssemblyInfo.cs
+C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart062\obj\Debug\net5.0\Programming BasicsPart062.csproj.CoreCompileInputs.cache
+C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart062\obj\Debug\net5.0\Programming BasicsPart062.dll
+C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart062\obj\Debug\net5.0\ref\Programming BasicsPart062.dll
+C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart062\obj\Debug\net5.0\Programming BasicsPart062.pdb
+C:\Users\faydn\source\repos\WissenMarathon\Programming BasicsPart062\obj\Debug\net5.0\Programming BasicsPart062.genruntimeconfig.cache

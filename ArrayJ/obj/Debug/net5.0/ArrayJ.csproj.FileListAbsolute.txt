@@ -1,0 +1,15 @@
+C:\Users\faydn\source\repos\WissenMarathon\ArrayJ\bin\Debug\net5.0\ArrayJ.exe
+C:\Users\faydn\source\repos\WissenMarathon\ArrayJ\bin\Debug\net5.0\ArrayJ.deps.json
+C:\Users\faydn\source\repos\WissenMarathon\ArrayJ\bin\Debug\net5.0\ArrayJ.runtimeconfig.json
+C:\Users\faydn\source\repos\WissenMarathon\ArrayJ\bin\Debug\net5.0\ArrayJ.runtimeconfig.dev.json
+C:\Users\faydn\source\repos\WissenMarathon\ArrayJ\bin\Debug\net5.0\ArrayJ.dll
+C:\Users\faydn\source\repos\WissenMarathon\ArrayJ\bin\Debug\net5.0\ref\ArrayJ.dll
+C:\Users\faydn\source\repos\WissenMarathon\ArrayJ\bin\Debug\net5.0\ArrayJ.pdb
+C:\Users\faydn\source\repos\WissenMarathon\ArrayJ\obj\Debug\net5.0\ArrayJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\source\repos\WissenMarathon\ArrayJ\obj\Debug\net5.0\ArrayJ.AssemblyInfoInputs.cache
+C:\Users\faydn\source\repos\WissenMarathon\ArrayJ\obj\Debug\net5.0\ArrayJ.AssemblyInfo.cs
+C:\Users\faydn\source\repos\WissenMarathon\ArrayJ\obj\Debug\net5.0\ArrayJ.csproj.CoreCompileInputs.cache
+C:\Users\faydn\source\repos\WissenMarathon\ArrayJ\obj\Debug\net5.0\ArrayJ.dll
+C:\Users\faydn\source\repos\WissenMarathon\ArrayJ\obj\Debug\net5.0\ref\ArrayJ.dll
+C:\Users\faydn\source\repos\WissenMarathon\ArrayJ\obj\Debug\net5.0\ArrayJ.pdb
+C:\Users\faydn\source\repos\WissenMarathon\ArrayJ\obj\Debug\net5.0\ArrayJ.genruntimeconfig.cache

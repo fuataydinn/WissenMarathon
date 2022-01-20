@@ -16,10 +16,20 @@ namespace Array2
             //NOT1: Konsol çıktısı gösteriminde gerçek elemanlar değil, elemanların dizi içerisinde bulunduğu konum yazılmıştır.
             //Sıralamanın doğru anlaşılması için gerçek dizi elemanları yazılmamıştır.
 
-            int[] sayi = new int[] { 1, 2, 3, 4, 5, 6, 7, 8 };
+            int[] sayi = new int[] { 0, 1, 2, 3, 4, 5, 6, 7 };
             Console.WriteLine("***1***  ***2***");
             for (int i = 0; i < sayi.Length; i++)
             {
+                if (!(i%2==0))
+                {
+                 
+                    Console.WriteLine($"{sayi[i]}");
+                }
+                 if (i%2==0)
+                {
+                    Console.Write($"{sayi[i]}           ");
+                }
+
                
 
 

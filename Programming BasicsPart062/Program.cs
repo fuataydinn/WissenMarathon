@@ -65,15 +65,6 @@ namespace Programming_BasicsPart062
                         counter++;
                     }
                 }
-
-                // Flag yöntemi
-
-                //if (exitCommandExecuted)
-                //{
-                //    Console.WriteLine("Program sonlandı");
-                //    break;
-                //}
-
                 if (!exitCommandExecuted)
                 {
                     Console.WriteLine("En büyük sayı {0}", maxNumber);
